@@ -23,6 +23,14 @@ El laboratorio fue desplegado con máquinas virtuales:
 - Detección de actividad sospechosa mediante logs  
 - Correlación de eventos y análisis de alertas  
 - Mapeo de actividades con MITRE ATT&CK
+## Evidencias de laboratorio
+- Monitorización en Wazuh SIEM
+<img width="800" height="116" alt="bruteforce jpg" src="https://github.com/user-attachments/assets/625e5a66-19c2-4466-a155-9ee857bff513" />
+<img width="1165" height="443" alt="wazuh-dashboard jpg" src="https://github.com/user-attachments/assets/0b8e3fb2-ef02-47d7-a99e-3b9710041fd7" />
+<img width="800" height="260" alt="wazuh-agent-dashboard jpg" src="https://github.com/user-attachments/assets/fd615d0a-0324-4efd-91dc-ea0eb5e189df" />
+<img width="516" height="173" alt="wazuh-linux jpg" src="https://github.com/user-attachments/assets/92883186-de1a-488d-9748-3750b086d765" />
+
+
 
 ---
 
